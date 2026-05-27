@@ -1,101 +1,63 @@
-{
-  "colorPalette": "violet-purple",
-  "glassSurfaces": false,
-  "glassmorphic": false,
-  "entries": [
-    {
-      "id": "20260526-171915-h0gy",
-      "title": "Supâ Saiyan Hadan",
-      "commanders": [
-        "Supâ Saiyan Hadan"
+[
+  {
+    "id": "20260526-171915-9zel",
+    "title": "Supâ Saiyan Hadan",
+    "commanders": [
+      "Supâ Saiyan Hadan"
+    ],
+    "dateStart": "2026-05-26T21:19:15.000Z",
+    "dateEnd": "2026-05-27T00:58:07.000Z",
+    "dateLabel": "5/26/2026, 5:19:15 PM - 5/26/2026, 8:58:07 PM",
+    "url": "https://Wiggles-byte.github.io/Krewlogs/?report=20260526-171915-9zel",
+    "summary": {
+      "borderlandsPct": 0.8947368421052632,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 15,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 2,
+          "color": "#ffffff"
+        }
       ],
-      "dateStart": "2026-05-26T21:19:15.000Z",
-      "dateEnd": "2026-05-27T00:58:07.000Z",
-      "dateLabel": "5/26/2026, 5:19:15 PM - 5/26/2026, 8:58:07 PM",
-      "url": "https://Wiggles-byte.github.io/Krewlogs/?report=20260526-171915-h0gy",
-      "summary": {
-        "borderlandsPct": 0.8947368421052632,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 15,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 2,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 2,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 13,
-        "avgEnemySize": 32
-      }
-    },
-    {
-      "id": "20260526-171915-9zel",
-      "title": "Supâ Saiyan Hadan",
-      "commanders": [
-        "Supâ Saiyan Hadan"
-      ],
-      "dateStart": "2026-05-26T21:19:15.000Z",
-      "dateEnd": "2026-05-27T00:58:07.000Z",
-      "dateLabel": "5/26/2026, 5:19:15 PM - 5/26/2026, 8:58:07 PM",
-      "url": "https://Wiggles-byte.github.io/Krewlogs/?report=20260526-171915-9zel",
-      "summary": {
-        "borderlandsPct": 0.8947368421052632,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 15,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 2,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 2,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 13,
-        "avgEnemySize": 32
-      }
-    },
-    {
-      "id": "20260525-194031-x7v4",
-      "title": "Supâ Saiyan Hadan",
-      "commanders": [
-        "Supâ Saiyan Hadan"
-      ],
-      "dateStart": "2026-05-25T23:40:31.000Z",
-      "dateEnd": "2026-05-26T02:01:13.000Z",
-      "dateLabel": "5/25/2026, 7:40:31 PM - 5/25/2026, 10:01:13 PM",
-      "url": "https://Wiggles-byte.github.io/Krewlogs/?report=20260525-194031-x7v4",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 30,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 4,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 10,
-        "avgEnemySize": 28
-      }
+      "avgSquadSize": 13,
+      "avgEnemySize": 32
     }
-  ]
-}
+  },
+  {
+    "id": "20260525-194031-x7v4",
+    "title": "Supâ Saiyan Hadan",
+    "commanders": [
+      "Supâ Saiyan Hadan"
+    ],
+    "dateStart": "2026-05-25T23:40:31.000Z",
+    "dateEnd": "2026-05-26T02:01:13.000Z",
+    "dateLabel": "5/25/2026, 7:40:31 PM - 5/25/2026, 10:01:13 PM",
+    "url": "https://Wiggles-byte.github.io/Krewlogs/?report=20260525-194031-x7v4",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 30,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 4,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 10,
+      "avgEnemySize": 28
+    }
+  }
+]
