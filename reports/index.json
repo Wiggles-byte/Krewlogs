@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260624-200616-ezpg",
+      "title": "Supâ Saiyan Hadan",
+      "commanders": [
+        "Supâ Saiyan Hadan"
+      ],
+      "dateStart": "2026-06-25T00:06:16.000Z",
+      "dateEnd": "2026-06-25T01:19:33.000Z",
+      "dateLabel": "6/24/2026, 8:06:16 PM - 6/24/2026, 9:19:33 PM",
+      "url": "https://Wiggles-byte.github.io/Krewlogs/?report=20260624-200616-ezpg",
+      "summary": {
+        "borderlandsPct": 0.6666666666666666,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 9,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260623-195337-e4c8",
       "title": "Supâ Saiyan Hadan",
       "commanders": [
