@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260629-200445-jq8s",
+      "title": "Supâ Saiyan Hadan",
+      "commanders": [
+        "Supâ Saiyan Hadan"
+      ],
+      "dateStart": "2026-06-30T00:04:45.000Z",
+      "dateEnd": "2026-06-30T01:24:41.000Z",
+      "dateLabel": "6/29/2026, 8:04:45 PM - 6/29/2026, 9:24:41 PM",
+      "url": "https://Wiggles-byte.github.io/Krewlogs/?report=20260629-200445-jq8s",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260625-195238-bqyl",
       "title": "Spynbrekr, Supâ Saiyan Hadan",
       "commanders": [
