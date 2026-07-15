@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260714-200829-qrhp",
+      "title": "Supâ Saiyan Hadan",
+      "commanders": [
+        "Supâ Saiyan Hadan"
+      ],
+      "dateStart": "2026-07-15T00:08:29.000Z",
+      "dateEnd": "2026-07-15T01:26:52.000Z",
+      "dateLabel": "7/14/2026, 8:08:29 PM - 7/14/2026, 9:26:52 PM",
+      "url": "https://Wiggles-byte.github.io/Krewlogs/?report=20260714-200829-qrhp",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260713-201759-ua0a",
       "title": "Supâ Saiyan Hadan",
       "commanders": [
