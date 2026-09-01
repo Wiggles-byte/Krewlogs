@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-200408-12w6",
+      "title": "Hádán",
+      "commanders": [
+        "Hádán"
+      ],
+      "dateStart": "2026-09-01T00:04:08.000Z",
+      "dateEnd": "2026-09-01T00:43:44.000Z",
+      "dateLabel": "8/31/2026, 8:04:08 PM - 8/31/2026, 8:43:44 PM",
+      "url": "https://Wiggles-byte.github.io/Krewlogs/?report=20260831-200408-12w6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 47,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260829-195402-l1xo",
       "title": "Unknown Commander",
       "commanders": [],
