@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260915-201245-awi9",
+      "title": "Hádán",
+      "commanders": [
+        "Hádán"
+      ],
+      "guild": {
+        "id": "1BC041CA-7807-4B64-BC24-D017F09EFD08",
+        "name": "Wrecking",
+        "tag": "Krew"
+      },
+      "dateStart": "2026-09-16T00:12:45.000Z",
+      "dateEnd": "2026-09-16T00:49:10.491Z",
+      "dateLabel": "9/15/2026, 8:12:45 PM - 9/15/2026, 8:49:10 PM",
+      "url": "https://Wiggles-byte.github.io/Krewlogs/?report=20260915-201245-awi9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 38,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260914-193915-wh5x",
       "title": "Hádán",
       "commanders": [
