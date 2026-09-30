@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260929-201029-qgny",
+      "title": "Hádán",
+      "commanders": [
+        "Hádán"
+      ],
+      "guild": {
+        "id": "BB8AA7FD-F4DA-F011-BB16-02A062328AE3",
+        "name": "Content Finder",
+        "tag": "Em"
+      },
+      "dateStart": "2026-09-30T00:10:29.000Z",
+      "dateEnd": "2026-09-30T00:56:52.340Z",
+      "dateLabel": "9/29/2026, 8:10:29 PM - 9/29/2026, 8:56:52 PM",
+      "url": "https://Wiggles-byte.github.io/Krewlogs/?report=20260929-201029-qgny",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260928-200910-sgly",
       "title": "Hádán",
       "commanders": [
