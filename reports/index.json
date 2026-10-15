@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.21.0"
+    "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20261014-200311-p4bw",
+      "title": "Hádán",
+      "commanders": [
+        "Hádán"
+      ],
+      "guild": {
+        "id": "1BC041CA-7807-4B64-BC24-D017F09EFD08",
+        "name": "Wrecking",
+        "tag": "Krew"
+      },
+      "dateStart": "2026-10-15T00:03:11.000Z",
+      "dateEnd": "2026-10-15T00:26:20.376Z",
+      "dateLabel": "10/14/2026, 8:03:11 PM - 10/14/2026, 8:26:20 PM",
+      "url": "https://Wiggles-byte.github.io/Krewlogs/?report=20261014-200311-p4bw",
+      "publishedBy": "Wiggles-byte",
+      "summary": {
+        "borderlandsPct": 0.2328767123287671,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 56,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 33
+      }
+    },
     {
       "id": "20261012-200840-y464",
       "title": "Hádán",
