@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261015-210002-zv4a",
+      "title": "Hádán",
+      "commanders": [
+        "Hádán"
+      ],
+      "guild": {
+        "id": "A535AFDC-31C8-F111-BB0A-0225ACD401EB",
+        "name": "Ebs Likes It Up The",
+        "tag": "butt"
+      },
+      "dateStart": "2026-10-16T01:00:02.000Z",
+      "dateEnd": "2026-10-16T01:38:50.167Z",
+      "dateLabel": "10/15/2026, 9:00:02 PM - 10/15/2026, 9:38:50 PM",
+      "url": "https://Wiggles-byte.github.io/Krewlogs/?report=20261015-210002-zv4a",
+      "publishedBy": "Wiggles-byte",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 24,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 4,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20261014-200311-p4bw",
       "title": "Hádán",
       "commanders": [
