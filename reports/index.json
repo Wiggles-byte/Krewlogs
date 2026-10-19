@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261018-200836-2r86",
+      "title": "Hádán",
+      "commanders": [
+        "Hádán"
+      ],
+      "guild": {
+        "id": "B954FD9A-9599-404E-A6F6-C74648867E86",
+        "name": "Destroyers Of Legion",
+        "tag": "DOL"
+      },
+      "dateStart": "2026-10-19T00:08:36.000Z",
+      "dateEnd": "2026-10-19T00:50:51.600Z",
+      "dateLabel": "10/18/2026, 8:08:36 PM - 10/18/2026, 8:50:51 PM",
+      "url": "https://Wiggles-byte.github.io/Krewlogs/?report=20261018-200836-2r86",
+      "publishedBy": "Wiggles-byte",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20261015-210002-zv4a",
       "title": "Hádán",
       "commanders": [
