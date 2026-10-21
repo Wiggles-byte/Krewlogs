@@ -5,9 +5,48 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.7"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261020-195414-eg2v",
+      "title": "Hádán",
+      "commanders": [
+        "Hádán"
+      ],
+      "guild": {
+        "id": "B954FD9A-9599-404E-A6F6-C74648867E86",
+        "name": "Destroyers Of Legion",
+        "tag": "DOL"
+      },
+      "dateStart": "2026-10-20T23:54:14.000Z",
+      "dateEnd": "2026-10-21T00:37:27.333Z",
+      "dateLabel": "10/20/2026, 7:54:14 PM - 10/20/2026, 8:37:27 PM",
+      "url": "https://Wiggles-byte.github.io/Krewlogs/?report=20261020-195414-eg2v",
+      "publishedBy": "Wiggles-byte",
+      "summary": {
+        "borderlandsPct": 0.07352941176470588,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 63,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 38
+      }
+    },
     {
       "id": "20261020-104058-9j37",
       "title": "Chrono Kathréftis",
