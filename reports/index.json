@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261027-094310-n731",
+      "title": "Hádán, Morticia Requiem",
+      "commanders": [
+        "Hádán",
+        "Morticia Requiem"
+      ],
+      "guild": {
+        "id": "A0BE4E0E-25DE-4643-90A5-05356588227F",
+        "name": "From Ashes We",
+        "tag": "RISE"
+      },
+      "dateStart": "2026-10-27T13:43:10.000Z",
+      "dateEnd": "2026-10-27T14:28:05.113Z",
+      "dateLabel": "10/27/2026, 9:43:10 AM - 10/27/2026, 10:28:05 AM",
+      "url": "https://Wiggles-byte.github.io/Krewlogs/?report=20261027-094310-n731",
+      "publishedBy": "Wiggles-byte",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20261026-200241-x9h6",
       "title": "Hádán",
       "commanders": [
