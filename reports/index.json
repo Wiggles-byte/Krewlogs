@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261027-201452-0a1y",
+      "title": "Hádán",
+      "commanders": [
+        "Hádán"
+      ],
+      "guild": {
+        "id": "B954FD9A-9599-404E-A6F6-C74648867E86",
+        "name": "Destroyers Of Legion",
+        "tag": "DOL"
+      },
+      "dateStart": "2026-10-28T00:14:52.000Z",
+      "dateEnd": "2026-10-28T01:16:04.742Z",
+      "dateLabel": "10/27/2026, 8:14:52 PM - 10/27/2026, 9:16:04 PM",
+      "url": "https://Wiggles-byte.github.io/Krewlogs/?report=20261027-201452-0a1y",
+      "publishedBy": "Wiggles-byte",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20261027-094310-n731",
       "title": "Hádán, Morticia Requiem",
       "commanders": [
